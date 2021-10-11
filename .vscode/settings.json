@@ -24,5 +24,7 @@
   "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
-  }
+  },
+  "editor.fontSize": 17,
+  "terminal.integrated.lineHeight": 34
 }
